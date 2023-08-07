@@ -1,0 +1,36 @@
+﻿Build started 11/5/2022 11:06:09 PM.
+     1>Project "C:\Users\razor101\Desktop\Speech Processing\Group9_SearchContactList\Group9_SearchContactList\Group9_SearchContactList.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Group9_SearchContactList.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Contact_Info.resx,Release\Group9_SearchContactList.Contact_Info.resources Form1.resX,Release\Group9_SearchContactList.Form1.resources updateForm.resx,Release\Group9_SearchContactList.updateForm.resources
+         Processing resource file "Contact_Info.resx" into "Release\Group9_SearchContactList.Contact_Info.resources".
+         Processing resource file "Form1.resX" into "Release\Group9_SearchContactList.Form1.resources".
+         Processing resource file "updateForm.resx" into "Release\Group9_SearchContactList.updateForm.resources".
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\razor101\Desktop\Speech Processing\Group9_SearchContactList\Release\Group9_SearchContactList.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Group9_SearchContactList.Contact_Info.resources /ASSEMBLYRESOURCE:Release\Group9_SearchContactList.Form1.resources /ASSEMBLYRESOURCE:Release\Group9_SearchContactList.updateForm.resources /MANIFEST /ManifestFile:"Release\Group9_SearchContactList.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\razor101\Desktop\Speech Processing\Group9_SearchContactList\Release\Group9_SearchContactList.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\Contact_Info.obj
+         Release\Group9_SearchContactList.obj
+         Release\stdafx.obj
+         Release\updateForm.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Group9_SearchContactList.vcxproj -> C:\Users\razor101\Desktop\Speech Processing\Group9_SearchContactList\Release\Group9_SearchContactList.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\razor101\Desktop\Speech Processing\Group9_SearchContactList\Release\Group9_SearchContactList.exe;#1" /manifest Release\Group9_SearchContactList.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Group9_SearchContactList.unsuccessfulbuild".
+         Touching "Release\Group9_SearchContactList.lastbuildstate".
+     1>Done Building Project "C:\Users\razor101\Desktop\Speech Processing\Group9_SearchContactList\Group9_SearchContactList\Group9_SearchContactList.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.35
